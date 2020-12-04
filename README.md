@@ -13,5 +13,5 @@ Each choice has a greater or lesser effect on pet's status levels.
 
 A tick method automatically decreases status levels with each loop iteration, ensuring the pet will always have needs for the user to meet.
 
-Since dragons are mystical creatures, the dragon will not die if any status levels reach zero. 
+Since dragons are mythical creatures, the dragon will not die if any status levels reach zero. 
 The user must choose to abandon the pet to exit the game.

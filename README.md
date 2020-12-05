@@ -15,3 +15,5 @@ A tick method automatically decreases status levels with each loop iteration, en
 
 Since dragons are mythical creatures, the dragon will not die if any status levels reach zero. 
 The user must choose to abandon the pet to exit the game.
+
+Collaboration with Dylon Colquitt.
